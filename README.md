@@ -1,9 +1,11 @@
 Overview
 ========
 
-Every Chef installation needs a Chef Repository. This is the place where cookbooks, roles, config files and other artifacts for managing systems with Chef will live. We strongly recommend storing this repository in a version control system such as Git and treat it like source code.
+This is my personal collection of cookbooks, mostly homegrown, for building and maintaining my home test lab. Since this is an R&D play project for the most part, I make no claims about how well anything in here works.
 
-While we prefer Git, and make this repository available via GitHub, you are welcome to download a tar or zip archive and use your favorite version control system to manage the code.
+That being said, my goal is to make the chef recipes here clean and clear, and reusable. Feel free to crib from anything I've done. Email me or message me here on github if you need help or have questions.
+
+greenman@greenman.org
 
 Repository Directories
 ======================
